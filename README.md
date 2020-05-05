@@ -7,7 +7,7 @@ NonFieldRPG
 ゲームが元々好きで、一度作成してみたいと思ったので
 
 # DEMO
-(images/top.png)
+(images/battle.png)
 
 
 
