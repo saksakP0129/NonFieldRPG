@@ -7,6 +7,7 @@ NonFieldRPG
 ゲームが元々好きで、一度作成してみたいと思ったので
 
 # DEMO
+https://raw.github.com/wiki/saksakp0129/NonFieldRPG/images/top.png
 
 
 
