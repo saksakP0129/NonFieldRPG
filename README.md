@@ -7,7 +7,7 @@ NonFieldRPG
 ゲームが元々好きで、一度作成してみたいと思ったので
 
 # DEMO
-![](https://github.com/saksakP0129/NonFieldRPG/blob/master/images/battle2.png)
+![](img width"226"https://github.com/saksakP0129/NonFieldRPG/blob/master/images/battle2.png)
 
 ![](https://github.com/saksakP0129/NonFieldRPG/blob/master/images/field.png)
 
