@@ -7,7 +7,7 @@ NonFieldRPG
 ゲームが元々好きで、一度作成してみたいと思ったので
 
 # DEMO
-(images/battle.png)
+<img width="226" alt="battle" src="https://user-images.githubusercontent.com/61728213/81070419-2a518d80-8f1e-11ea-9171-12aba236f4ea.png">
 
 
 
