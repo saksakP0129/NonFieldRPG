@@ -11,11 +11,13 @@ NonFieldRPG
 # DEMO
 左の画面がTOPページ　
 はじめるボタンを押すと右画像に遷移する
+
 <img width="220" height="350" alt="top" src="https://user-images.githubusercontent.com/61728213/81072034-80273500-8f20-11ea-9200-59ba33e9bc8b.png"><img width="220" height="350" alt="map" src="https://user-images.githubusercontent.com/61728213/81071995-7271af80-8f20-11ea-8178-88082e72bb63.png">
 
 ダンジョン内では右上に改装（クリックを押すごとに数字が加算）
 進むボタンか街に戻るボタンを選ぶことができる
 左下にはステーラスの表示をしている
+
 <img width="220" height="350" alt="field" src="https://user-images.githubusercontent.com/61728213/81071943-60900c80-8f20-11ea-9316-df9795ce0a49.png">
 
 敵とエンカウントした際には敵名前とHPを表示
